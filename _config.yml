@@ -1,0 +1,27 @@
+# GitHub Pages Jekyll 配置
+title: 《创新实验》课程大纲
+description: 云南大学《创新实验》课程网站
+baseurl: "/innovation-experiment-course"
+url: "https://dev-learn-hub.github.io"
+
+# 主题设置 - minima 是 GitHub Pages 默认主题
+theme: minima
+
+# 导航栏不自动列出所有页面
+header_pages: []
+
+# 编码设置 - 解决中文乱码问题
+encoding: "utf-8"
+
+# markdown 渲染
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# 网站设置
+permalink: pretty
+
+# 默认分页设置
+paginate: 10
+paginate_path: "/blog/page:num/"
