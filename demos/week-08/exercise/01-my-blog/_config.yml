@@ -1,0 +1,9 @@
+title: 我的博客
+description: 这是我的练习博客
+baseurl: ""
+url: ""
+
+theme: minima
+
+markdown: kramdown
+permalink: pretty

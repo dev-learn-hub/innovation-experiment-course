@@ -1,0 +1,9 @@
+title: 我的第一个 Jekyll 网站
+description: 这是一个简单的 Jekyll 示例网站
+baseurl: ""
+url: ""
+
+theme: minima
+
+markdown: kramdown
+permalink: pretty

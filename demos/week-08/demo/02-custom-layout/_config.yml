@@ -1,0 +1,7 @@
+title: 自定义主题网站
+description: 使用自定义布局的 Jekyll 网站
+baseurl: ""
+url: ""
+
+markdown: kramdown
+permalink: pretty
